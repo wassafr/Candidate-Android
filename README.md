@@ -26,6 +26,7 @@ See API Documentation for details.
 - Create screens as you want, they just need to validate the *user stories*.
 - Follow the UX guidelines you want.
 - Choose the architecture model you need, but imagine that more stories have to come.
+- Feel free to use any external library you need.
 - Add tests if you estimate them required.
 - Fork this repository and send us your work through a pull request ([Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
 
