@@ -9,7 +9,7 @@ So here we go !
 ## What are we waiting for ?
 
 So it's quite simple, imagine that you have to start this new project from scratch.
-The the two first *user stories* that you have to develop are :
+The two first *user stories* that you have to develop are :
 
 #####*01 :  "As a user, I can browse the complete list of Places."*
 #####*02 :  "As a user, I can see the details of one Place."*
@@ -23,13 +23,13 @@ See API Documentation for details.
 
 ## How to do it ?
 
-- Create screens as you want, they just need to validate the *user stories*.
+- Design app screens as you want, they just have to validate the *user stories*.
 - Follow the UX guidelines you want.
-- Choose the architecture model you need, but imagine that more stories have to come.
+- Choose the architecture model you need, imagine that more stories have to come.
 - Feel free to use any external library you need.
 - Add tests if you estimate them required.
 - Fork this repository and send us your work through a pull request ([Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
-
+- Be creative, have fun !
 
 
 ## Annexes
@@ -38,7 +38,7 @@ See API Documentation for details.
 
 - The project contains a module "webserver".
 - This module provides to the app a local server.
-- The server is automatically started and stopped by `LaunchActivity.java`.
+- The server is automatically started and stopped by `LaunchActivity.java`. You don't have to modify this part.
 - The EndPoint of this server is : `http://localhost:8080`
 
 
