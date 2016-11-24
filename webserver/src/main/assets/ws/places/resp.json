@@ -1,0 +1,81 @@
+[
+  {
+    "id":"87beb070-94d1-4c81-98da-d58fab1727f6",
+    "label":"Manhattan, NY",
+    "country":"United States of America",
+    "image_id":"9b6c30e1-d4a2-4302-9306-f3db5bd5f90a",
+    "description":"Manhattan is the most densely populated borough of New York City, its economic and administrative center, and the city's historical birthplace. The borough is coextensive with New York County, founded on November 1, 1683, as one of the original counties of the U.S. state of New York. The borough consists mostly of Manhattan Island, bounded by the East, Hudson, and Harlem Rivers, and also includes several small adjacent islands and Marble Hill, a small neighborhood on the U.S. mainland."
+  },
+  {
+    "id":"78f8bc4c-f992-48bc-afde-71b8d80eeb7b",
+    "label":"Manarola, Cinque Terre",
+    "country":"Italy",
+    "image_id":"c2c46ffd-8377-4567-9d11-9f4f4a3571dc",
+    "description":"The Cinque Terre is a rugged portion of coast on the Italian Riviera. It is in the Liguria region of Italy, to the west of the city of La Spezia, and comprises five villages: Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore. The coastline, the five villages, and the surrounding hillsides are all part of the Cinque Terre National Park and is a UNESCO World Heritage Site."
+  },
+  {
+    "id":"678be05f-ed32-4746-a14d-94c295201f28",
+    "label":"Westminster, London",
+    "country":"England",
+    "image_id":"b855d6fa-3093-4014-b00a-61f49f19e4c3",
+    "description":"Westminster is an area of central London within the City of Westminster, part of the West End, on the north bank of the River Thames.[1] Westminster's concentration of visitor attractions and historic landmarks, one of the highest in London, includes the Palace of Westminster, Buckingham Palace, Westminster Abbey and Westminster Cathedral. Historically the area lay within St Margaret's parish, City & Liberty of Westminster, Middlesex. The name Westminster originated from the informal description of the abbey church and royal peculiar of St Peter's (Westminster Abbey), literally West of the City of London, indeed until the Reformation there was a reference to the 'East Minster' at Minories (Holy Trinity Priory, Aldgate) east of the City; the abbey was part of the royal palace that had been created here by Edward the Confessor. It has been the home of the permanent institutions of England's government continuously since about 1200 (High Middle Ages Plantagenet times) and is now the seat of British government."
+  },
+  {
+    "id":"0b22f395-983a-40fa-a1a3-0e316092d747",
+    "label":"Milsons Point, Sydney",
+    "country":"Australia",
+    "image_id":"be1f42fb-af0c-4800-940b-417526f36121",
+    "description":"Milsons Point is a suburb on the lower North Shore of Sydney, in the state of New South Wales, Australia. North Sydney is located 3 kilometres north of the Sydney central business district in the local government area of North Sydney Council. Milsons Point is also the geographical feature that juts into Sydney Harbour from the northern side, directly opposite Sydney Cove, the spot where the first European settlement was established in 1788. Milsons Point was named after James Milson (1783–1872), one of the earliest settlers."
+  },
+  {
+    "id":"8b5b1365-85f7-42ec-b581-484fdea3ab67",
+    "label":"Lofoten Islands",
+    "country":"Norway",
+    "image_id":"f405c553-c335-439c-9e2e-1f4d5c709fb8",
+    "description":"Lofoten is an archipelago and a traditional district in the county of Nordland, Norway. Lofoten is known for a distinctive scenery with dramatic mountains and peaks, open sea and sheltered bays, beaches and untouched lands. Though lying within the Arctic Circle, the archipelago experiences one of the world's largest elevated temperature anomalies relative to its high latitude."
+  },
+  {
+    "id":"886cbd77-8f6e-4e82-bb39-f5f8edf93ab1",
+    "label":"Valletta",
+    "country":"Malta",
+    "image_id":"0266ec83-6236-44c5-8077-58e52fafcd0d",
+    "description":"Valletta is the capital city of Malta, colloquially known as Il-Belt in Maltese. Geographically, it is located in the South Eastern Region, in the central-eastern portion of the main island of Malta having its western coast with access to the Marsamxett Harbour and its eastern coast in the Grand Harbour. The historical city has a population of 6,444 (as of March 2014), while the metropolitan area around it has a population of 393,938. Valletta is the southernmost capital of Europe and the second southernmost capital of the European Union after Nicosia. Valletta contains buildings from the 16th century onwards, built during the rule of the Order of St. John also known as Knights Hospitaller. The city is essentially Baroque in character, with elements of Mannerist, Neo-Classical and Modern architecture in selected areas, though the Second World War left major scars on the city, particularly the destruction of the Royal Opera House. The City of Valletta was officially recognised as a World Heritage Site by UNESCO in 1980. The official name given by the Order of Saint John was Humilissima Civitas Valletta—The Most Humble City of Valletta, or Città Umilissima in Italian. The city's fortifications, consisting of bastions, curtains and cavaliers, along with the beauty of its Baroque palaces, gardens and churches, led the ruling houses of Europe to give the city its nickname Superbissima—Most Proud.",
+    "latitiude":35.897778,
+    "longitude":14.5125
+  },
+  {
+    "id":"d94ed5b2-011a-4b2d-a9b4-51b9325d8f4f",
+    "label":"Bellagio Hotel & Casino, Las Vegas, NV",
+    "country":"United States of America",
+    "image_id":"d793ae01-39c2-46dd-9238-d67de36a96e8",
+    "description":"Bellagio is a resort, luxury hotel and casino on the Las Vegas Strip in Paradise, Nevada. It is owned and operated by MGM Resorts International and was built on the site of the demolished Dunes hotel and casino. Inspired by the Lake Como town of Bellagio in Italy, Bellagio is famed for its elegance. One of its most notable features is an 8-acre (3.2 ha) lake between the building and the Strip, which houses the Fountains of Bellagio, a large dancing water fountain synchronized to music.Inside Bellagio, Dale Chihuly's Fiori di Como, composed of over 2,000 hand-blown glass flowers, covers 2,000 sq ft (190 m2) of the lobby ceiling. Bellagio is home to Cirque du Soleil's aquatic production O. The main (original) tower of Bellagio, with 3,015 rooms, has 36 floors and a height of 508 ft (151 m). The Spa Tower, which stands to the south of the main tower, has 33 floors, a height of 392 ft (119 m) and contains 935 rooms."
+  },
+  {
+    "id":"df9ffeb8-fbcc-4aec-8e67-cbd3b3b47d94",
+    "label":"Badwater Basin, Death Valley National Park",
+    "country":"United States of America",
+    "image_id":"4360d28b-7b27-4c11-a5ab-df4f7c4922ca",
+    "description":"Badwater Basin is an endorheic basin in Death Valley National Park, Death Valley, Inyo County, California, noted as the lowest point in North America, with an elevation of 282 ft (86 m) below sea level. Mount Whitney, the highest point in the contiguous 48 United States, is only 84.6 miles (136 km) to the north west. The site itself consists of a small spring-fed pool of \"bad water\" next to the road in a sink; the accumulated salts of the surrounding basin make it undrinkable, thus giving it the name. The pool does have animal and plant life, including pickleweed, aquatic insects, and the Badwater snail. Adjacent to the pool, where water is not always present at the surface, repeated freeze–thaw and evaporation cycles gradually push the thin salt crust into hexagonal honeycomb shapes."
+  },
+  {
+    "id":"e2a7736e-1e33-4431-92a7-971c0863e9eb",
+    "label":"Patagonia, South America",
+    "country":"Argentina and Chile",
+    "image_id":"cba0a8ad-41c9-442f-af80-f311b2fc4839",
+    "description":"Patagonia is a sparsely populated region located at the southern end of South America, shared by Argentina and Chile. The region comprises the southern section of the Andes mountains as well as the deserts, steppes and grasslands east of this southern portion of the Andes. Patagonia has two coasts; a western one towards the Pacific Ocean and an eastern one towards the Atlantic Ocean. The Colorado and Barrancas rivers, which run from the Andes to the Atlantic, are commonly considered the northern limit of Argentine Patagonia. The island of Tierra del Fuego is sometimes included as part of Patagonia. Most geographers and historians locate the northern limit of Chilean Patagonia at Reloncaví Estuary."
+  },
+  {
+    "id":"134306f5-e4b3-4830-b892-2717e5f8ffa7",
+    "label":"Lake Wanaka",
+    "country":"New Zealand",
+    "image_id":"016a9bf5-4baa-4298-8cf3-67af43d7a455",
+    "description":"Lake Wanaka is located in the Otago region of New Zealand, at an altitude of 300 metres. Covering an area of 192 km2 (74 sq mi),[citation needed] it is New Zealand's fourth largest lake, and estimated to be more than 300 m (980 ft) deep. Its name is Māori, a corruption of Oanaka ('The place of Anaka', a local tribal chief). Wanaka is a town on the lake with which it shares its name."
+  },
+  {
+    "id":"46309ac7-4d33-4de0-9088-a8b00ac24493",
+    "label":"Boulogne Billencourt",
+    "country":"France",
+    "image_id":"",
+    "description":null
+  }
+]
