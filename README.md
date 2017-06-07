@@ -2,7 +2,7 @@
 
 ## Why this test ?
 
-At Wassa we think that there's no better way to judge technical skills of a candidate then by seeing the code he or she can produce.
+At Wassa we think that there's no better way to judge technical skills of a candidate than by reading the code he or she can produce.
 
 So here we go !
 
@@ -28,6 +28,7 @@ See API Documentation for details.
 - Choose the architecture model you need, imagine that more stories have to come.
 - Feel free to use any external library you need.
 - Add tests if you estimate them required.
+- You can add comments in code if you need to. Add TODOs or explanations on specifis part of your code.
 - Fork this repository and send us your work through a pull request ([Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
 - Be creative, have fun !
 
