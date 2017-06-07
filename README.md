@@ -11,11 +11,11 @@ So here we go !
 So it's quite simple, imagine that you have to start this new project from scratch.
 The two first *user stories* that you have to develop are :
 
-#####*01 :  "As a user, I can browse the complete list of Places."*
-#####*02 :  "As a user, I can see the details of one Place."*
+- *01 :  "As a user, I can browse the complete list of Places."*
+- *02 :  "As a user, I can see the details of one Place."*
 
 Story Bonus !
-#####*03 :  "As a user, I can mark a place as favorite, and browse my favorites in a separate screen."*
+- *03 :  "As a user, I can mark a place as favorite, and browse my favorites in a separate screen."*
 
 A *Place* is an object from the data model, describing a physical place in the world, with several attributes (label, country, image, etc ...).
 See API Documentation for details.
