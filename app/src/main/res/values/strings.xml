@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Wassa Candidate</string>
+    <string name="google_android_map_api_key">AIzaSyArUZ1E6aJWd9Q_X3ngRqAg1ywZLRqGTfg</string>
+    <string name="title_favorite_on">Show favorite</string>
+    <string name="title_favorite_off">Show all</string>
+    <string name="title_grid_on">SShow as grid</string>
+    <string name="title_grid_off">Show as list</string>
+    <string name="title_country" formatted="false">Country: %s</string>
+    <string name="title_description" formatted="false">Description: %s</string>
+    <string name="title_author" formatted="false">Author: %s</string>
+    <string name="title_link" formatted="false">link: %s </string>
+    <string name="title_coordinates" formatted="false">Latitude: %f , Longitude: %f</string>
 </resources>
